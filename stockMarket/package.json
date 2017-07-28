@@ -1,0 +1,17 @@
+{
+  "name": "stockmarket",
+  "version": "1.0.0",
+  "description": "Maximum difference between two elements such that larger element appears after the smaller number",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha",
+    "start": "node index.js"
+  },
+  "author": "Rayhaneh Banyassady",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.1.0",
+    "chia": "0.0.1",
+    "mocha": "^3.4.2"
+  }
+}
